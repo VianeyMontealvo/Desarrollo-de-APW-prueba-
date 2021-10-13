@@ -8,8 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HOLA </h1>
-    <h2>E</h2>
-    <h3>Mayra</h3>
+    <h1>HOLA amigos </h1>
+    <h2>amigos</h2> 
+
+    
 </body>
 </html>
