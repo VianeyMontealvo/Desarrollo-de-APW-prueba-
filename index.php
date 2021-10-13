@@ -10,6 +10,7 @@
 <body>
     <h1>HOLA amigos </h1>
     <h2>amigos</h2> 
+    <h2>como estan</h2> 
 
     
 </body>
